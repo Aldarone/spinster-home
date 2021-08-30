@@ -16,9 +16,19 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/blog/"
+  name = "E2"
+  url = "https://e2.spinster.party/"
   weight = 20
+
+[[main]]
+  name = "T"
+  url = "https://t.spinster.party/"
+  weight = 30
+
+[[main]]
+  name = "WTF"
+  url = "https://wtf.spinster.party/"
+  weight = 40
 
 [[social]]
   name = "Twitter"
