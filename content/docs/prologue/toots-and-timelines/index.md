@@ -1,7 +1,7 @@
 ---
 title: "Les timelines et la visibilité des messages"
-description: "Spinster te permet de contrôler facilement qui peut lire tes messages et te permet de participer aux discussions efficacement."
-lead: "Spinster te permet de contrôler facilement qui peut lire tes messages et te permet de participer aux discussions efficacement."
+description: "Spinster Party te permet de contrôler facilement qui peut lire tes messages et te permet de participer aux discussions efficacement."
+lead: "Spinster Party te permet de contrôler facilement qui peut lire tes messages et te permet de participer aux discussions efficacement."
 date: 2021-08-30T17:55:21+02:00
 lastmod: 2021-08-30T17:55:24+02:00
 draft: false

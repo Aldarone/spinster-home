@@ -15,7 +15,7 @@ toc: true
 
 ## Ça ressemble beaucoup à Twitter
 
-Comme sur Twitter, Spinster te permet de créer ton profil avec une image de
+Comme sur Twitter, Spinster Party te permet de créer ton profil avec une image de
 profil, une bannière et une bio. Tu vas pouvoir suivre les gens qui
 t'intéressent pour te créer une timeline personnalisée et poster des messages
 plus où moins courts ainsi que des images, des sons et des vidéos.
